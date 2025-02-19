@@ -17,7 +17,7 @@ html {
 
 .img-back {
 
-    background-image: url("img/stade-ol.jpg");
+    background-image: url("../img/stade-ol.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
